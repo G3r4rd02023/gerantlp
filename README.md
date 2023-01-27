@@ -1,0 +1,2 @@
+# gerantlp
+portafolio
